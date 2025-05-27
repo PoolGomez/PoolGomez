@@ -3,7 +3,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy Pool</h1></summary>
   </ul>
-  <h3 align="center">Programador Full Stack</h3>
+  <h3 align="center">Programador Web Full Stack</h3>
   <h3 align="center">Apasionado por la programación y autodidacta para aprender.</h3>
 </div>
 
@@ -48,7 +48,7 @@
 <br><br>
 
 
-<h2 align="center">Habilidades:</h2>
+<h2 align="center">Conocimientos:</h2>
 
 <h3 align="center">Leanguajes de Programación:</h3>
 <table align="center">
