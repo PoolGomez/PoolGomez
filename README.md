@@ -2,7 +2,6 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy Pool</h1></summary>
-    <li>sdasdasd</li>
   </ul>
   <h3 align="center">Programador Full Stack</h3>
   <h3 align="center">Apasionado por la programación y autodidacta para aprender.</h3>
