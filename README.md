@@ -14,24 +14,20 @@
   <td width="25%" align="center">
     <p align="center">
       <p>Ina Estadisticas</p>
-<!--      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source"> -->
-        <img align="center" width=100% src="https://github.com/PoolGomez/ina-estadisticas-app/blob/main/public/preview/captura-01.png"   alt="VIDEO" />
-<!-- </a> -->
+        <img align="center" width=100% src="https://github.com/PoolGomez/ina-estadisticas-app/blob/main/public/preview/captura-01.png"   alt="screen" />
       </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/Ver-008F39?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ver-008F39?style=for-the-badge&logo=youtube&logoColor=white" alt="icono"  /></a>
       <a href="https://github.com/PoolGomez/ina-estadisticas-app" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
     <p align="center">
       <p>Bingo Web</p>
-<!--      <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source"> -->
-        <img align="center" width=100% src="https://github.com/PoolGomez/BingoGame/blob/main/public/preview/bingo-game-03.png"   alt="VIDEO" />
-<!-- </a> -->
+        <img align="center" width=100% src="https://github.com/PoolGomez/BingoGame/blob/main/public/preview/bingo-game-03.png"   alt="screen" />
       </p>
     <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/Ver-008F39?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ver-008F39?style=for-the-badge&logo=youtube&logoColor=white" alt="icono"  /></a>
       <a href="https://github.com/PoolGomez/BingoGame" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
