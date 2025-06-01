@@ -7,42 +7,7 @@
   <h3 align="center">Apasionado por la programación y autodidacta para aprender.</h3>
 </div>
 
-<h3 align="center" >Algunos proyectos👨🏻‍💻</h3>
-
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-      <p>Ina Estadisticas</p>
-        <img align="center" width=100% src="https://github.com/PoolGomez/ina-estadisticas-app/blob/main/public/preview/captura-01.png"   alt="screen" />
-      </p>
-    <p align="center">
-        <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ver-008F39?style=for-the-badge&logo=youtube&logoColor=white" alt="icono"  /></a>
-      <a href="https://github.com/PoolGomez/ina-estadisticas-app" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-      <p>Bingo Web</p>
-        <img align="center" width=100% src="https://github.com/PoolGomez/BingoGame/blob/main/public/preview/bingo-game-03.png"   alt="screen" />
-      </p>
-    <p align="center">
-        <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ver-008F39?style=for-the-badge&logo=youtube&logoColor=white" alt="icono"  /></a>
-      <a href="https://github.com/PoolGomez/BingoGame" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
- 
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">Conocimientos:</h2>
 
@@ -204,29 +169,135 @@
     </td>
   </tr>
 </table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center" >Algunos proyectos👨🏻‍💻</h3>
+
+<table align="center" >
+<tr border="none">
+   <td width="50%" align="center">
+    <p align="center">
+      <p>Ina Estadisticas</p>
+      <p>Sistema de gestion de reuniones</p>
+        <a href="https://github.com/PoolGomez/ina-estadisticas-app" target="_blank">
+          <img align="center" width="300px" height="200" style="object-fit: cover;" src="https://github.com/PoolGomez/ina-estadisticas-app/blob/main/public/preview/captura-01.png" alt="screen" />
+        </a>
+    </p>
+    <p align="center" style="display: inline-block;">
+      <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="react" />
+      <img align="center" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="typescript" />
+      <img align="center" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" alt="firebase" />
+      <br>
+      <img align="center" src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss" alt="tailwindcss" />
+      <img align="center" src="https://img.shields.io/badge/-Shadcn-05122A?style=flat&logo=shadcnui" alt="shadcnui" />
+      <img align="center" src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite" alt="vite" />
+    </p>
+    <p>
+      <a href="https://github.com/PoolGomez/ina-estadisticas-app" target="blank">
+        <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
+      </a>
+      <a>
+        <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
+      </a>
+    </p>
+
+</td>
+
+  
+<td width="50%" align="center">
+    <p align="center">
+      <p>Bingo Web</p>
+      <p>Aplicación para Streamer Bingo</p>
+      <a href="https://github.com/PoolGomez/BingoGame" target="_blank">
+        <img align="center" width="300px" height="200" style="object-fit: cover;" src="https://github.com/PoolGomez/BingoGame/blob/main/public/preview/bingo-game-03.png"   alt="screen" />
+      </a>
+      </p>
+      <p align="center" style="display: inline-block;">
+      <img align="center" src="https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js" alt="next" />
+      <img align="center" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="typescript" />
+      <img align="center" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" alt="firebase" />
+        <br>
+      <img align="center" src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss" alt="tailwindcss" />
+      <img align="center" src="https://img.shields.io/badge/-Shadcn-05122A?style=flat&logo=shadcnui" alt="shadcnui" />
+    </p>
+    <p>
+      <a href="https://github.com/PoolGomez/BingoGame" target="blank">
+        <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
+      </a>
+      <a href="#" target="blank">
+        <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
+      </a>
+    </p>
+</td> 
+</tr>
+
+<tr>
+  <td width="50%" align="center">
+    <p align="center">
+      <p>Ina App</p>
+      <p>Sistema de membresia y asistencia</p>
+      <a href="https://github.com/PoolGomez/ina-app" target="_blank">
+        <img align="center" width="300px" height="200" style="object-fit: cover;" src="https://github.com/PoolGomez/ina-app/blob/main/public/preview/ina_app_01.png"   alt="screen" />
+      </a>
+      </p>
+      <p align="center" style="display: inline-block;">
+      <img align="center" src="https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js" alt="next" />
+      <img align="center" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="typescript" />
+      <img align="center" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" alt="firebase" />
+        <br>
+      <img align="center" src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss" alt="tailwindcss" />
+      <img align="center" src="https://img.shields.io/badge/-Shadcn-05122A?style=flat&logo=shadcnui" alt="shadcnui" />
+      <img align="center" src="https://img.shields.io/badge/-chart-05122A?style=flat&logo=chart.js" alt="chartjs" />
+    </p>
+    <p>
+      <a href="https://github.com/PoolGomez/ina-app" target="blank">
+        <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
+      </a>
+      <a href="#" target="blank">
+        <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
+      </a>
+    </p>
+</td> 
+<!--
+<td width="50%" align="center">
+    <p align="center">
+      <p>App Alzu</p>
+      <p>Sistema para restaurante multiempresa</p>
+      <a href="https://github.com/PoolGomez/BingoGame" target="_blank">
+        <img align="center" width="300px" height="200" style="object-fit: cover;" src="https://github.com/PoolGomez/BingoGame/blob/main/public/preview/bingo-game-03.png"   alt="screen" />
+      </a>
+      </p>
+      <p align="center" style="display: inline-block;">
+      <img align="center" src="https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js" alt="next" />
+      <img align="center" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="typescript" />
+      <img align="center" src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="postgresql" />
+        <br>
+        <img align="center" src="https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma" alt="prisma" />
+      <img align="center" src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss" alt="tailwindcss" />
+      <img align="center" src="https://img.shields.io/badge/-Shadcn-05122A?style=flat&logo=shadcnui" alt="shadcnui" />
+    </p>
+    <p>
+      <a href="https://github.com/PoolGomez/BingoGame" target="blank">
+        <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
+      </a>
+      <a href="#" target="blank">
+        <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
+      </a>
+    </p>
+</td> 
+-->
+</tr>
+</table>
 
 
 <hr>      
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contactame:</h3>
 <p align="center">
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/poolgomezosorio90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/poolgomezosorio90" height="30" width="40" /></a>
+  <a href="mailto:pgomez4790@gmail.com">
+    <img align="center" src="https://images.icon-icons.com/652/PNG/512/gmail_icon-icons.com_59877.png" alt="gmail" height="40" width="40" />
+  </a>
 </p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--
-**PoolGomez/PoolGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
