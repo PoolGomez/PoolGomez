@@ -292,7 +292,7 @@
 </tr>
 </table>
 
-<h3 align="center" >Credenciales de los demos🔒</h3>
+<h3 align="center" >Credenciales de las demos🔒</h3>
 <p align="center">
   <a>📧invitado@mail.com</a>
   <a>🔒123456</a>
