@@ -178,7 +178,7 @@
     <p align="center">
       <p>Ina Estadisticas</p>
       <p>Sistema de gestion de reuniones</p>
-        <a href="https://github.com/PoolGomez/ina-estadisticas-app" target="_blank">
+        <a href="https://ina-estadisticas-app.vercel.app" target="_blank">
           <img align="center" width="300px" height="200" style="object-fit: cover;" src="https://github.com/PoolGomez/ina-estadisticas-app/blob/main/public/preview/captura-01.png" alt="screen" />
         </a>
     </p>
@@ -195,7 +195,7 @@
       <a href="https://github.com/PoolGomez/ina-estadisticas-app" target="blank">
         <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
       </a>
-      <a>
+      <a href="https://ina-estadisticas-app.vercel.app">
         <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
       </a>
     </p>
@@ -205,9 +205,9 @@
   
 <td width="50%" align="center">
     <p align="center">
-      <p>Bingo Web</p>
-      <p>Aplicación para Streamer Bingo</p>
-      <a href="https://github.com/PoolGomez/BingoGame" target="_blank">
+      <p>Bingo Monitor Web</p>
+      <p>Aplicación para Monitorear Bingo en tiempo real</p>
+      <a href="https://bingo-game-demo.vercel.app" target="_blank">
         <img align="center" width="300px" height="200" style="object-fit: cover;" src="https://github.com/PoolGomez/BingoGame/blob/main/public/preview/bingo-game-03.png"   alt="screen" />
       </a>
       </p>
@@ -223,7 +223,7 @@
       <a href="https://github.com/PoolGomez/BingoGame" target="blank">
         <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
       </a>
-      <a href="#" target="blank">
+      <a href="https://bingo-game-demo.vercel.app" target="blank">
         <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
       </a>
     </p>
@@ -235,7 +235,7 @@
     <p align="center">
       <p>Ina App</p>
       <p>Sistema de membresia y asistencia</p>
-      <a href="https://github.com/PoolGomez/ina-app" target="_blank">
+      <a href="https://ina-app-demo.vercel.app" target="_blank">
         <img align="center" width="300px" height="200" style="object-fit: cover;" src="https://github.com/PoolGomez/ina-app/blob/main/public/preview/ina_app_01.png"   alt="screen" />
       </a>
       </p>
@@ -246,16 +246,20 @@
         <br>
       <img align="center" src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss" alt="tailwindcss" />
       <img align="center" src="https://img.shields.io/badge/-Shadcn-05122A?style=flat&logo=shadcnui" alt="shadcnui" />
-      <img align="center" src="https://img.shields.io/badge/-chart-05122A?style=flat&logo=chart.js" alt="chartjs" />
+      <img align="center" src="https://img.shields.io/badge/-chart-05122A?style=flat&logo=chart.js" alt="chartjs" style="pointer-events: none;" />
     </p>
     <p>
       <a href="https://github.com/PoolGomez/ina-app" target="blank">
         <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
       </a>
-      <a href="#" target="blank">
+      <a href="https://ina-app-demo.vercel.app/" target="blank" title="etest">
         <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
       </a>
     </p>
+<!--     <p>
+      <a href="#"> <img src="https://img.shields.io/badge/%F0%9F%93%A7-invitado@mail.com-2e7c15" alt="mail" style="pointer-events: none;" />
+        <img src="https://img.shields.io/badge/%F0%9F%94%92-12345-2e7c15" alt="mail" style="pointer-events: none;" /> </a>
+    </p> -->
 </td> 
 <!--
 <td width="50%" align="center">
@@ -288,6 +292,11 @@
 </tr>
 </table>
 
+<h3 align="center" >Credenciales de los demos🔒</h3>
+<p align="center">
+  <a>📧invitado@mail.com</a>
+  <a>🔒123456</a>
+</p>
 
 <hr>      
 <h3 align="center">Contactame:</h3>
