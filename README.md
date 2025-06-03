@@ -206,7 +206,7 @@
 <td width="50%" align="center">
     <p align="center">
       <p>Bingo Monitor Web</p>
-      <p>Aplicación para Monitorear Bingo en tiempo real</p>
+      <p>Aplicación para Monitorear Bingo en vivo</p>
       <a href="https://bingo-game-demo.vercel.app" target="_blank">
         <img align="center" width="300px" height="200" style="object-fit: cover;" src="https://github.com/PoolGomez/BingoGame/blob/main/public/preview/bingo-game-03.png"   alt="screen" />
       </a>
