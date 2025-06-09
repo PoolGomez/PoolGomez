@@ -195,7 +195,7 @@
       <a href="https://github.com/PoolGomez/ina-estadisticas-app" target="blank">
         <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
       </a>
-      <a href="https://ina-estadisticas-app.vercel.app">
+      <a href="https://ina-estadisticas-app.vercel.app/login?email=invitado@mail.com&password=123456">
         <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
       </a>
     </p>
@@ -252,7 +252,7 @@
       <a href="https://github.com/PoolGomez/ina-app" target="blank">
         <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
       </a>
-      <a href="https://ina-app-demo.vercel.app/" target="blank" title="etest">
+      <a href="https://ina-app-demo.vercel.app/login?email=invitado@mail.com&password=123456" target="blank" title="etest">
         <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
       </a>
     </p>
