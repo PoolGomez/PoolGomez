@@ -192,10 +192,10 @@
       <img align="center" src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite" alt="vite" />
     </p>
     <p>
-      <a href="https://github.com/PoolGomez/ina-estadisticas-app" target="blank">
+      <a href="https://github.com/PoolGomez/ina-estadisticas-app" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
       </a>
-      <a href="https://ina-estadisticas-app.vercel.app/login?email=admin@mail.com&password=123456">
+      <a href="https://ina-estadisticas-app.vercel.app/login" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
       </a>
     </p>
@@ -220,10 +220,10 @@
       <img align="center" src="https://img.shields.io/badge/-Shadcn-05122A?style=flat&logo=shadcnui" alt="shadcnui" />
     </p>
     <p>
-      <a href="https://github.com/PoolGomez/BingoGame" target="blank">
+      <a href="https://github.com/PoolGomez/BingoGame" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
       </a>
-      <a href="https://bingo-game-demo.vercel.app" target="blank">
+      <a href="https://bingo-game-demo.vercel.app" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
       </a>
     </p>
@@ -249,10 +249,10 @@
       <img align="center" src="https://img.shields.io/badge/-chart-05122A?style=flat&logo=chart.js" alt="chartjs" style="pointer-events: none;" />
     </p>
     <p>
-      <a href="https://github.com/PoolGomez/ina-app" target="blank">
+      <a href="https://github.com/PoolGomez/ina-app" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
       </a>
-      <a href="https://ina-app-demo.vercel.app/login?email=invitado@mail.com&password=123456" target="blank" title="etest">
+      <a href="https://ina-app-demo.vercel.app/login" target="_blank" title="etest">
         <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
       </a>
     </p>
