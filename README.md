@@ -252,7 +252,7 @@
       <a href="https://github.com/PoolGomez/ina-app" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github" alt="repo" />  
       </a>
-      <a href="https://ina-app-demo.vercel.app/login" target="_blank" title="etest">
+      <a href="https://ina-app-demo.vercel.app/login" target="blank" title="etest">
         <img align="center" src="https://img.shields.io/badge/-demo-239120?style=flat&logo=youtube" alt="demo" />  
       </a>
     </p>
